@@ -1,6 +1,6 @@
 # Containerized Workflow
 
-This course-based project demonstrates the concept of reproducibility by automatically generating SQLite databases from UniProt protein sequence data using an Ubuntu-based containerized workflow.
+This course-based project demonstrates reproducibility using an Ubuntu-based containerized workflow. The pipeline automatically retrieves UniProt protein sequence data, creates SQLite databases, calculates sequence statistics, and generates analysis figures. It also creates the graphical abstract and full NIH-style grant proposal as PDFs. The proposal is written in Typst, with all figures and results generated directly from the same reproducible workflow.
 
 >'''
 Ubuntu Version: 24.04.3 LTS
