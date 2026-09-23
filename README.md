@@ -1,4 +1,4 @@
-# EMA6096_Reproducible_Workflow
+# Containerized Workflow
 
 This course-based project demonstrates the concept of reproducibility by automatically generating SQLite databases from UniProt protein sequence data using an Ubuntu-based containerized workflow.
 
